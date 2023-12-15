@@ -63,8 +63,8 @@
             "#000000"
         ],
         "BACKGROUND_MENTIONED": [
-            "color": #000000,
-            "opacity": 25%
+            "color": "#000000",
+            "opacity": "25%"
         ],
         "BACKGROUND_MODIFIER_ACTIVE": [
             "#000000"
