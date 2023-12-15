@@ -9,10 +9,10 @@
     ],
     "semanticColors": {
       "HEADER_PRIMARY": [
-          "#D572D0"
+          "#54C7F2"
       ],
       "HEADER_SECONDARY": [
-          "#D572D0"
+          "#54C7F2"
       ],
       "TEXT_NORMAL": [
           "#FFE8FE"
@@ -24,16 +24,16 @@
           "#EE8EE9"
       ],
       "INTERACTIVE_NORMAL": [
-          "#C599C3"
+          "#54C7F2"
       ],
       "INTERACTIVE_HOVER": [
-          "#B988BC"
+          "#54C7F2"
       ],
       "INTERACTIVE_ACTIVE": [
-          "#FDC5FA"
+          "#54C7F2"
       ],
       "INTERACTIVE_MUTED": [
-          "#5F5160" 
+          "#54C7F2" 
       ],
       "BACKGROUND_PRIMARY": [
           "#54C7F2"
@@ -45,10 +45,10 @@
           "#54C7F2"
       ],
       "BACKGROUND_TERTIARY": [
-          "#282828"
+          "#54C7F2"
       ],
       "BACKGROUND_ACCENT": [
-          "#704A6E"
+          "#54C7F2"
       ],
       "BACKGROUND_FLOATING": [
           "#54C7F2"
@@ -64,37 +64,37 @@
       ],
      
       "BACKGROUND_MESSAGE_HOVER": [
-          "#292929"
+          "#54C7F2"
       ],
       "BACKGROUND_MODIFIER_HOVER": [
-          "#292929"
+          "#54C7F2"
       ],
       "BACKGROUND_MODIFIER_ACTIVE": [
-          "#7D427A"
+          "#54C7F2"
       ],
       "BACKGROUND_MODIFIER_SELECTED": [
-          "#7D427A"
+          "#54C7F2"
       ],
       "BACKGROUND_MODIFIER_ACCENT": [
-          "#484848"
+          "#54C7F2"
       ],
       "SCROLLBAR_THIN_THUMB": [
-          "#26273b"
+          "#54C7F2"
       ],
       "SCROLLBAR_THIN_TRACK": [
           "transparent"
       ],
       "SCROLLBAR_AUTO_THUMB": [
-          "#DAB3D8"
+          "#54C7F2"
       ],
       "SCROLLBAR_AUTO_TRACK": [
-          "#DAB3D8"
+          "#54C7F2"
       ],
       "CHANNELTEXTAREA_BACKGROUND": [
-          "#242424"
+          "#54C7F2"
       ],
       "CHANNELS_DEFAULT": [
-          "#9E769C"
+          "#54C7F2"
       ],
       "TEXT_DANGER": [
           "#FC0E61"
@@ -103,16 +103,16 @@
           "#282828"
       ],
       "CHANNEL_ICON": [
-          "#C6B3C5"
+          "#54C7F2"
       ],
       "CHAT_BACKGROUND": [
-          "#282828"
+          "#54C7F2"
       ],
       "SPOILER_HIDDEN_BACKGROUND": [
-        "#4B4B4B"
+        "#54C7F2"
       ],
       "SPOILER_REVEALED_BACKGROUND": [
-        "#5E5E5E"
+        "#54C7F2"
       ]
   },
   "rawColors": {
