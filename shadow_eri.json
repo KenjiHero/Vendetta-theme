@@ -96,30 +96,6 @@
             "#ffffff"
         ]
     },
-    "rawColors": {
-        "PRIMARY_100": "#ffffff",
-        "PRIMARY_200": "#ffffff",
-        "PRIMARY_300": "#ffffff",
-        "PRIMARY_360": "#507dfc",
-        "PRIMARY_500": "#507dfc",
-        "PRIMARY_600": "#000000",
-        "PRIMARY_630": "#000000",
-        "PRIMARY_660": "#000000",
-        "PRIMARY_700": "#000000",
-        "PRIMARY_800": "#000000",
-        "BRAND_260": "#507dfc",
-        "BRAND_360": "#507dfc",
-        "BRAND_500": "#507dfc",
-        "BRAND_560": "#ffffff",
-        "WHITE_500": "#ffffff",
-        "BLUE_345": "#507dfc",
-        "YELLOW_300": "#507dfc",
-        "ORANGE_345": "#507dfc",
-        "GREEN_345": "#507dfc",
-        "GREEN_360": "#507dfc",
-        "RED_560" : "#507dfc",
-        "RED_400": "#507dfc"
-    },
     "spec": 2,
     "background": {
         "blur": 1.2,
