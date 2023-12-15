@@ -21,7 +21,7 @@
             "#507dfc"
         ],
         "TEXT_LINK": [
-            "#507dfc"
+            "#0000FF"
         ],
         "TEXT_DANGER": [
             "#507dfc"
@@ -63,7 +63,8 @@
             "#000000"
         ],
         "BACKGROUND_MENTIONED": [
-            "transparent"
+            "color": #000000,
+            "opacity": 25%
         ],
         "BACKGROUND_MODIFIER_ACTIVE": [
             "#000000"
@@ -81,7 +82,7 @@
             "transparent"
         ],
         "CHANNEL_TEXT_AREA_PLACEHOLDER": [
-            "#999999"
+            "#000000"
         ],
         "CHAT_BACKGROUND": [
             "#000000"
@@ -120,11 +121,11 @@
         "RED_560" : "#507dfc",
         "RED_400": "#507dfc"
     },
-    "spec": 2,
+    "spec": 3,
     "background": {
         "blur": 0.6,
-        "url": "https://raw.githubusercontent.com/KenjiHero/Vendetta-theme/main/dance-moves.gif",
-        "alpha": 0.5,
+        "url": "https://raw.githubusercontent.com/KenjiHero/Vendetta-theme/main/gloomy-anime-girl-with-glowing-eyes-amidst-shadows-holding-energy-sphere_866273-550.jpg",
+        "alpha": 1.5,
         "color": "#000000"
     }
 }
