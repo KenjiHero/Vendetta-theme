@@ -100,8 +100,8 @@
     "background": {
         "blur": 1.2,
         "url": "https://raw.githubusercontent.com/KenjiHero/Vendetta-theme/main/gloomy-anime-girl-with-glowing-eyes-amidst-shadows-holding-energy-sphere_866273-550.jpg",
+        "opacity": "65%",
         "alpha": 1.5,
-        "color": "#000000",
-        "opacity": "25%"
+        "color": "#000000"
     }
 }
