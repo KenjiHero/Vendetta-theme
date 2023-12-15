@@ -1,5 +1,5 @@
 {
-    "name": "shadow Godness",
+    "name": "Shadow Godness",
     "description": "A simple theme for Vendetta with an image of purple mountains. DARK MODE REQUIRED!",
     "authors": [
         {
@@ -21,7 +21,7 @@
             "#507dfc"
         ],
         "TEXT_LINK": [
-            "#0000FF"
+            "#ff0000"
         ],
         "TEXT_DANGER": [
             "#507dfc"
@@ -63,7 +63,7 @@
             "#000000"
         ],
         "BACKGROUND_MENTIONED": [
-            "#000000"
+            "transparent"
         ],
         "BACKGROUND_MODIFIER_ACTIVE": [
             "#000000"
@@ -81,7 +81,7 @@
             "transparent"
         ],
         "CHANNEL_TEXT_AREA_PLACEHOLDER": [
-            "#000000"
+            "#999999"
         ],
         "CHAT_BACKGROUND": [
             "#000000"
@@ -122,9 +122,9 @@
     },
     "spec": 2,
     "background": {
-        "blur": 1.2,
+        "blur": 0.6,
         "url": "https://raw.githubusercontent.com/KenjiHero/Vendetta-theme/main/gloomy-anime-girl-with-glowing-eyes-amidst-shadows-holding-energy-sphere_866273-550.jpg",
-        "alpha": 0.5,
-        "color": "#000000",
+        "alpha": 1.5,
+        "color": "#000000"
     }
 }
